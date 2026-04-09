@@ -2,6 +2,7 @@
 # Employee Work Analysis Dashboard Using excel
 
 ## Project Overview
+
 Raw data is messy — and bad data leads to bad insights. This project demonstrates a complete data cleaning workflow on an employee dataset using Excel.
 
 The raw dataset contained missing values, inconsistent labels, invalid email formats, and redundant columns. These issues were systematically identified and fixed through data preprocessing techniques such as null handling, text standardization, format correction, and column optimization.
@@ -9,6 +10,7 @@ The raw dataset contained missing values, inconsistent labels, invalid email for
 The end result is a clean, reliable dataset ready for analysis, dashboards, and business decision-making.
 
 ## Tools 
+
 • Microsoft Excel
 
 • Pivot Tables
@@ -19,6 +21,7 @@ The end result is a clean, reliable dataset ready for analysis, dashboards, and 
 
 
 ## Data Cleaning & Preparation
+
 • Removed irrelevant columns (e.g., Country) to reduce noise.
 
 • Renamed columns for better clarity and consistency.
@@ -30,6 +33,7 @@ The end result is a clean, reliable dataset ready for analysis, dashboards, and 
 • Verified dataset to minimize null values and improve overall data quality.
 
 ## Key Insights
+
  - 1.Department Vs Total Salary
    Which department generate more salary .
 
@@ -43,9 +47,10 @@ The end result is a clean, reliable dataset ready for analysis, dashboards, and 
  Who have high performance score male,women or other.
 
 ## Slicer
-Department
 
-## Department
+ Department
+
+## Recommendations
 • Salary distribution is uneven across departments.
 
 • Performance and salary are not fully aligned in some cases.
