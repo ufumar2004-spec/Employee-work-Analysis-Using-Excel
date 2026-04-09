@@ -31,16 +31,16 @@ The end result is a clean, reliable dataset ready for analysis, dashboards, and 
 
 ## Key Insights
  - 1.Department Vs Total Salary
--  Which department generate more salary .
+   Which department generate more salary .
 
 - 2.Performance VS Salary
-- Based on performance score there is salary hike or not.
-- 
+  Based on performance score there is salary hike or not.
+  
 - 3:Gender VS Salary
-- Which gender whether male or female gets more salary.
-- 
+ Which gender whether male or female gets more salary.
+  
 - 4:Gender Vs Performance
-- Who have high performance score male,women or other.
+ Who have high performance score male,women or other.
 
 ## Slicer
 Department
