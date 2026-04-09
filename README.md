@@ -20,18 +20,25 @@ The end result is a clean, reliable dataset ready for analysis, dashboards, and 
 
 ## Data Cleaning & Preparation
 • Removed irrelevant columns (e.g., Country) to reduce noise.
+
 • Renamed columns for better clarity and consistency.
+
 • Identified and handled missing values across key fields.
+
 • Standardized text data using functions like TRIM, CLEAN, and PROPER.
+
 • Verified dataset to minimize null values and improve overall data quality.
 
 ## Key Insights
  - 1.Department Vs Total Salary
 -  Which department generate more salary .
+
 - 2.Performance VS Salary
 - Based on performance score there is salary hike or not.
+- 
 - 3:Gender VS Salary
 - Which gender whether male or female gets more salary.
+- 
 - 4:Gender Vs Performance
 - Who have high performance score male,women or other.
 
@@ -40,9 +47,13 @@ Department
 
 ## Department
 • Salary distribution is uneven across departments.
+
 • Performance and salary are not fully aligned in some cases.
+
 • Gender-based salary differences exist are minimal.
+
 • Performance levels vary across genders.
+
 • Certain departments have higher salary concentration.
 
 ## Conclusion
