@@ -9,10 +9,14 @@ The raw dataset contained missing values, inconsistent labels, invalid email for
 The end result is a clean, reliable dataset ready for analysis, dashboards, and business decision-making.
 
 ## Tools 
-• Microsoft Excel.
-• Pivot Tables.
-• Pivot Charts.
-• Aggregate Functions.
+• Microsoft Excel
+
+• Pivot Tables
+
+• Pivot Charts
+
+• Aggregate Functions
+
 
 ## Data Cleaning & Preparation
 • Removed irrelevant columns (e.g., Country) to reduce noise.
